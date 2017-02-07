@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 294896741
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: materialasset.red
+      Dependencies: {}
+    Info_1:
+      Name: redcube
+      Dependencies:
+        Dependency_0: materialasset.red
