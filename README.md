@@ -1,0 +1,2 @@
+# VR02
+assetBundle
